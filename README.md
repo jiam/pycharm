@@ -9,3 +9,5 @@
 * git checkout0.1
 * git branch 0.2-1
 * git checkout 0.2-1
+* git branch 0.2-2
+* git branch 0.2-2
